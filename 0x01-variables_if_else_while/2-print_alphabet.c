@@ -5,15 +5,15 @@
 *
 *Return: return 0
 */
-int main(void)
+int  main(void)
 {
-int letter;
+char g = 'a';
 
-for (letter = 'a'; letter <= 'z'; letter++)
-	{
-		letter = tolower(letter);
-		putchar(letter);
-	}
+while (g <= 'z')
+{
+	putchar (y);
+	y += 1;
+}
 	putchar('\n');
 	return (0);
 }
