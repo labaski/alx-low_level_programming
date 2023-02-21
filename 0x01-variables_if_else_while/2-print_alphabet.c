@@ -11,8 +11,8 @@ char g = 'a';
 
 while (g <= 'z')
 {
-	putchar (y);
-	y += 1;
+	putchar (g);
+	g += 1;
 }
 	putchar('\n');
 	return (0);
