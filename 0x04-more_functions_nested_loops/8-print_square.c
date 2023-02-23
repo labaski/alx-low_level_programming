@@ -1,4 +1,4 @@
-u#include "main.h"
+#include "main.h"
 /**
 *print_square - prints squares
 *@size: parameter
