@@ -14,7 +14,6 @@ if (inc != n - 1)
 printf("%d, ", a[inc]);
 else
 printf("%d", a[inc]);
-
 }
 printf("\n");
 }
